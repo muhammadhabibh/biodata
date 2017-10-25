@@ -1,3 +1,3 @@
 # biodata
-![alt text](src/3.JPG)
+![alt text](src/javafx2/3.JPG)
 ## ini halaman awal pengisian biodata siswa
